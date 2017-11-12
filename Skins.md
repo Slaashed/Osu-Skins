@@ -1,7 +1,7 @@
 # Slaashed's Skins
 Click on the name to download the skin :D
 
-# Skin's made by me 
+# Skins made by me 
 Some have elements from other skins like hitsounds and hitcircles and stuff cause im too lazy to make those plus I play better with them so... yeah 
 
 # [Sagiri Skin 15-06-17](https://puu.sh/vmeym/7632bb7662.osk)
