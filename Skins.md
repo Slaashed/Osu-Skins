@@ -4,7 +4,7 @@ Click on the name to download the skin :D
 # Skins made by me 
 Some have elements from other skins like hitsounds and hitcircles and stuff cause im too lazy to make those plus I play better with them so... yeah 
 
-# [Sagiri Skin 15-06-17](https://drive.google.com/uc?export=download&id=1BftWLhjKPCM70jsz8rVLZUnanLSYAFD1/view?usp=sharing)
+# [Sagiri Skin 15-06-17](https://drive.google.com/uc?export=download&id=1BftWLhjKPCM70jsz8rVLZUnanLSYAFD1)
 ![](https://puu.sh/ykltr/e1a84d94c6.jpg)
 
 # [Rory Skin](https://drive.google.com/uc?export=download&id=11n2Rh6RF5M6gjKHTw_cgIxXNFfnrqOPh)
