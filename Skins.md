@@ -4,6 +4,8 @@ Click on the name to download the skin :D
 # Skins made by me 
 Some have elements from other skins like hitsounds and hitcircles and stuff cause im too lazy to make those plus I play better with them so... yeah 
 
+# [Hatsune Miku V1](https://drive.google.com/uc?export=download&id=1mpprkziw3RIftSqHkw4qISj1YoQeypYA)
+![](https://puu.sh/z53nn/c95708dc55.jpg)
 # [Sagiri Skin 15-06-17](https://drive.google.com/uc?export=download&id=1BftWLhjKPCM70jsz8rVLZUnanLSYAFD1)
 ![](https://puu.sh/ykltr/e1a84d94c6.jpg)
 
