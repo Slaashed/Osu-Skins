@@ -6,6 +6,8 @@ Some have elements from other skins like hitsounds and hitcircles and stuff caus
 
 # [Hatsune Miku V2](https://drive.google.com/uc?export=downloads&id=1VND0pMqgtqg2ljlo0S5Ucnw9a3WHu7Fp)
 ![](https://puu.sh/zZyoi/7d7fbf75b2.jpg)
+Change Log:
+>Added mode-osu-medium sprite, applause song, changed those god awful section sprites, new selection-mode, new ranking-panel, thicker hitcircles, different cursor.  
 
 # [Hatsune Miku V1](https://drive.google.com/uc?export=download&id=1mpprkziw3RIftSqHkw4qISj1YoQeypYA)
 ![](https://puu.sh/z53nn/c95708dc55.jpg)
