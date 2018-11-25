@@ -1,8 +1,10 @@
-# Slaashed's Skins
-Click on the name to download the skin :D
+![](https://puu.sh/C7e17/5d088b0a83.png)
 
-# Skins made by me 
-Some have elements from other skins like hitsounds and hitcircles and stuff cause im too lazy to make those plus I play better with them so... yeah 
+# [Hatsune Miku V4](https://drive.google.com/uc?export=downloads&id=15dljVE094hrh-AOF85TLs8eictNrfIrR)
+![](https://puu.sh/C7dGy/fb5ad38a43.jpg)
+
+# [Hatsune Miku V3](https://drive.google.com/uc?export=downloads&id=1RFfjNpi1YZNOnkGH8am6lNDKP_xzXOcz)
+![](https://puu.sh/C7dHi/0ccc423d09.jpg)
 
 # [Hatsune Miku V2](https://drive.google.com/uc?export=downloads&id=1VND0pMqgtqg2ljlo0S5Ucnw9a3WHu7Fp)
 ![](https://puu.sh/zZyoi/7d7fbf75b2.jpg)
